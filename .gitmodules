@@ -1,0 +1,3 @@
+[submodule "lib/ffmpeg-ios-build"]
+	path = lib/ffmpeg-ios-build
+	url = https://github.com/bluwave/ffmpeg-ios-build.git
